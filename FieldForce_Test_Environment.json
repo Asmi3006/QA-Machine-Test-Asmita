@@ -1,0 +1,52 @@
+{
+	"id": "e20e2cb1-57ec-4d21-9fae-bb0ee7f55e6d",
+	"name": "FieldForce Test",
+	"values": [
+		{
+			"key": "baseUrl",
+			"value": "",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "username",
+			"value": "",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "password",
+			"value": "",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "customerName",
+			"value": "",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "contactPerson",
+			"value": "",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "email",
+			"value": "",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "mobileNo",
+			"value": "",
+			"type": "default",
+			"enabled": true
+		}
+	],
+	"color": null,
+	"_postman_variable_scope": "environment",
+	"_postman_exported_at": "2026-09-06T08:31:11.850Z",
+	"_postman_exported_using": "Postman/12.26.5"
+}
